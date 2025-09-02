@@ -1,7 +1,7 @@
 ## Hi there 👋
 Name Savannah Bare
 username savannahbare
-CS 2400, Section n109
+CS 2400, Section 109
 <!--
 **savannahbare/savannahbare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
